@@ -1,0 +1,13 @@
+		       Aplicativo: Uhunt
+
+Clientes: Bruno, Bryan, Daniel e João.
+
+Queremos um app, onde o usuário navegue como uma loja digital, podendo encontrar links de utorrent para utilizar, como por exemplo, adicionar uma seção para musicas, filmes e jogos, tendo acesso fácil e seguro aos links.
+
+Requisições:
+-possuir sessões separadas para musica, jogo e filme;
+-ter no minimo 8 itens de cada umas das 3 categorias;
+-sistema de navegação limpo;
+-opção de favoritar algum item;
+-solicitar o download do utorrent e winrar;
+-(não favorecer a pirataria) opcional.
